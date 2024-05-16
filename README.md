@@ -20,7 +20,8 @@
 
 
 ## 论文目录
-### From ‘Reds’ to Riches: Contemporary Changes of Educational Assortative Mating in China
+### 2017
+#### From ‘Reds’ to Riches: Contemporary Changes of Educational Assortative Mating in China
 *  2017.“From ‘Reds’ to Riches: Contemporary Changes of Educational Assortative Mating in China”. Research in Social Stratification and Mobility, 50: 40-49. doi:10.1016/j.rssm.2017.06.001
 *  [代码](/10.1016)
 
